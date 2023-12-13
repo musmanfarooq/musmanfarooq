@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musmanfarooq
-- 👀 I’m interested in React js, JavaScript, Redux,js
+- 👀 I’m interested in React js, Node Js, TypeScript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.usmanfarooq753@gmail.com
