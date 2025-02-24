@@ -5,7 +5,7 @@
 - 📫 How to reach me m.usmanfarooq753@gmail.com
 
 <div style="display: flex; align-item: center">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=musmanfarooq&show_icons=true&theme=radical" />
+<!--   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=musmanfarooq&show_icons=true&theme=radical" /> -->
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmanfarooq&layout=compact"/>
 </div>
 <br/>
