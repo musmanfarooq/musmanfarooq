@@ -6,6 +6,7 @@
 
 <!-- <div style="display: block;"> -->
 <!--   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=musmanfarooq&show_icons=true&theme=radical" /> -->
+<img width="100%" height='250px' src="https://github.com/musmanfarooq/musmanfarooq/commit/72276f931ee36ae4ef376b215da571d1577f449e"/>
 <!-- </div> -->
 <div style="display: flex; align-item: center; margin-top: '40px'">
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
