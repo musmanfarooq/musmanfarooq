@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @musmanfarooq
-- 👀 I’m interested in React js, Node Js, TypeScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me m.usmanfarooq753@gmail.com
+👋 Hi, I’m Muhammad Usman Farooq
+<br/>
+📫 How to reach me: m.usmanfarooq753@gmail.com
 
-<!-- <div style="display: block;"> -->
+<!-- <div style="display: block;"> 
 <!--   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=musmanfarooq&show_icons=true&theme=radical" /> -->
-<!-- <img width="100%" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmanfarooq&layout=compact"/> -->
+ <img width="100%" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmanfarooq&layout=compact"/> 
 <!-- </div> -->
 <div style="display: flex; align-item: center; margin-top: '40px'">
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
