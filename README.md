@@ -1,23 +1,15 @@
 # 👋 Hi, I'm Muhammad Usman Farooq
 
-💻 Passionate Web Developer  
+💻 Passionate Software Engineer
 🌐 Portfolio: https://usman-farooq05.web.app/  
 📫 Email: m.usmanfarooq753@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/usman-farooq-61ba08197/
 
-
 <p align="left">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musmanfarooq&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
